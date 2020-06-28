@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+C:\Users\coron\source\repos\AC_Cheat2.0\AC_Cheat2.0\dllmain.cpp(36,53): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\coron\source\repos\AC_Cheat2.0\AC_Cheat2.0\dllmain.cpp(36,36): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\coron\source\repos\AC_Cheat2.0\AC_Cheat2.0\dllmain.cpp(228,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AC_Cheat2.0.vcxproj -> C:\Users\coron\source\repos\AC_Cheat2.0\Debug\AC_Cheat2.0.dll
